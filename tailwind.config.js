@@ -46,6 +46,10 @@ export default {
       fontFamily: {
         sans: ["Vazir", ...fontFamily.sans],
       },
+      container: {
+        center: true,
+        padding: "1rem",
+      },
     },
   },
   plugins: [],
