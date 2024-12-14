@@ -1,9 +1,9 @@
-import SendOTP from "../features/authentication/SendOTP";
+import SendOTPForm from "../features/authentication/SendOTPForm";
 
 function Auth() {
   return (
     <div>
-      <SendOTP />
+      <SendOTPForm />
     </div>
   );
 }
